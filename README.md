@@ -1,18 +1,18 @@
-# 🛒 E-Commerce Full Stack App
+#  E-Commerce Full Stack App
 
-## 🚀 Features
+##  Features
 - Add / Update / Delete Products
 - Image Upload & Display
 - Cart Functionality
 - Search Products
 
-## 🛠 Tech Stack
+##  Tech Stack
 - React.js
 - Spring Boot
 - REST API
 - MySQL / H2
 
-## ▶️ Run Project
+##  Run Project
 
 ### Backend
 cd Ecommerce-Backend
